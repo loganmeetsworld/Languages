@@ -7,4 +7,4 @@ Create any new files you require in this repository to complete these exercises.
 
 ### Option 1: [Poverty Data](poverty-data.md)
 
-### Option 2: []()
+### Option 2: [Planet Express](spaceships.md)
